@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChangeLanguages2</string>
+    <string name="hello">Hola Mundo!</string>
+    <string-array name="languages">
+        <item>english</item>
+        <item>russian</item>
+        <item>spanish</item>
+    </string-array>
+</resources>
